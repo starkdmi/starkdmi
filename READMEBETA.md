@@ -104,10 +104,6 @@ int main() {
 
 
 
- <a href="https://github.com/starkdmi">
-  <img align="left" alt="Counter" height="28" src="https://komarev.com/ghpvc/?username=starkdmi&style=flat-square&label=😎" />
-</a>
-
 <a href="https://api.binance.com/api/v3/ticker/price?symbol=BTCUSDT">
   <img align="left" alt="Bitcoin" src="https://img.shields.io/badge/dynamic/json?color=f8941a&style=for-the-badge&label=%E2%82%BF&query=price&suffix=%20$&url=https%3A%2F%2Fapi.binance.com%2Fapi%2Fv3%2Fticker%2Fprice%3Fsymbol%3DBTCUSDT" />
 </a>
@@ -132,6 +128,9 @@ int main() {
   <img align="left" alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
  
+<a href="https://github.com/starkdmi">
+  <img align="left" alt="Counter" height="28" src="https://komarev.com/ghpvc/?username=starkdmi&style=flat-square&label=😎" />
+</a>
  
  
  
