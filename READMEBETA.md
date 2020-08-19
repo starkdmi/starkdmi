@@ -43,6 +43,10 @@
   <img align="left" alt="Spotify" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
+ <a href="https://github.com/starkdmi">
+  <img height="28" src="https://komarev.com/ghpvc/?username=starkdmi&style=flat-square"  />
+</a>
+
 
 
 <a href="https://api.binance.com/api/v3/ticker/price?symbol=BTCUSDT">
@@ -110,7 +114,7 @@ int main() {
 
 
 <!--<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=starkdmi" alt="reisub0" />
+  <img src="https://komarev.com/ghpvc/?username=starkdmi&style=flat-square"  />
 </p>-->
 
 <!-- - ![#f03c15](https://placehold.it/150/ffffff/ff0000?text=hello) -->
