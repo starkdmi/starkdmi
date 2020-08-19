@@ -4,11 +4,11 @@
 <!-- ### Hello, World! 🌎 -->
 
 <a href="https://t.me/starkdmi">
-  <img align="left" alt="Telegram" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" />
+  <img align="left" alt="Telegram" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
 
 <a href="https://www.facebook.com/starkdmi">
-  <img align="left" alt="Facebook" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png"/>
+  <img align="left" alt="Facebook" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"/>
 </a>
 
 <!--<a href="https://www.instagram.com/starkdmi">
