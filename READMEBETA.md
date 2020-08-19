@@ -3,6 +3,8 @@
 <!-- ### Hi there 👋 -->
 <!-- ### Hello, World! 🌎 -->
 
+ <h3 align="left">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+
 <a href="https://t.me/starkdmi">
   <img align="left" alt="Telegram" width="28px" src="https://raw.githubusercontent.com/starkdmi/starkdmi/master/Assets/Telegram.svg" />
 </a>
@@ -59,10 +61,6 @@ int main() {
 <!-- Random Fact -->
 <!-- https://uselessfacts.jsph.pl/random.txt -->
 
-<!-- Spotify -->
-<a href="https://spotify-now-playing.vercel.app/api/spotify-now-playing">
-  <img alt="Now playing Spotify" src="https://spotify-now-playing.vercel.app/api/spotify-now-playing"/>
-</a>
 
 
 <!--<a href="https://github.com/starkdmi/Multi-Messenger-Bot-2">
