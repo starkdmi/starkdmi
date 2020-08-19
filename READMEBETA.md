@@ -4,16 +4,20 @@
 <!-- ### Hello, World! 🌎 -->
 
 <a href="https://t.me/starkdmi">
-  <img align="left" alt="Telegram" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
+  <img align="left" alt="Telegram" width="28px" src="https://raw.githubusercontent.com/starkdmi/starkdmi/master/Assets/Telegram.svg" />
 </a>
 
 <a href="https://www.facebook.com/starkdmi">
-  <img align="left" alt="Facebook" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"/>
+  <img align="left" alt="Facebook" width="28px" src="https://raw.githubusercontent.com/starkdmi/starkdmi/master/Assets/Facebook.svg"/>
 </a>
 
-<!--<a href="https://www.instagram.com/starkdmi">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>-->
+<a href="https://www.instagram.com/starkdmi">
+  <img align="left" alt="Instagram" width="28px" src="https://raw.githubusercontent.com/starkdmi/starkdmi/master/Assets/Instagram.svg" />
+</a>
+
+<a href="mailto:starkov100@gmail.com">
+  <img align="left" alt="Gmail" width="28px" src="https://raw.githubusercontent.com/starkdmi/starkdmi/master/Assets/Gmail.svg" />
+</a>
 
 
 
