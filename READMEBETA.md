@@ -44,7 +44,7 @@
 </a>
 
  <a href="https://github.com/starkdmi">
-  <img height="28" src="https://komarev.com/ghpvc/?username=starkdmi&style=flat-square"  />
+  <img height="28" src="https://komarev.com/ghpvc/?username=starkdmi&style=flat-square&label=Views" />
 </a>
 
 
