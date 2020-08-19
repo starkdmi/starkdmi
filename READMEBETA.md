@@ -39,7 +39,26 @@ int main() {
    <img src="https://github-readme-stats.vercel.app/api?username=starkdmi&count_private=true&include_all_commits=true&hide_rank=true&line_height=22 &hide=contribs,prs,issues&show_icons=true&icon_color=3080ee" />
 </a>
 
+</br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=starkdmi" />
+</p>
 
+<p align="center"> 
+  Profile views<br>
+  <img src="https://profile-counter.glitch.me/starkdmi/count.svg" />
+</p>
+
+<!-- Random Image -->
+<!-- <img src="https://source.unsplash.com/random/800x400" /> -->
+
+<!-- Random Fact -->
+<!-- https://uselessfacts.jsph.pl/random.txt -->
+
+<!-- Spotify -->
+<a href="https://spotify-now-playing.vercel.app/api/spotify-now-playing">
+  <img alt="Now playing Spotify" src="https://spotify-now-playing.vercel.app/api/spotify-now-playing"/>
+</a>
 
 
 <!--<a href="https://github.com/starkdmi/Multi-Messenger-Bot-2">
