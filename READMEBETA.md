@@ -51,8 +51,6 @@ int main() {
   <img align="left" alt="Gmail" width="28px" src="https://raw.githubusercontent.com/starkdmi/starkdmi/master/Assets/Gmail.svg" />
 </a>-->
 
-</br>
-
 <!--<a href="https://t.me/starkdmi">
   <img align="left" alt="Telegram" src="https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
