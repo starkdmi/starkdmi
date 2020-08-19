@@ -21,6 +21,34 @@
   <img align="left" alt="Gmail" width="28px" src="https://raw.githubusercontent.com/starkdmi/starkdmi/master/Assets/Gmail.svg" />
 </a>
 
+</br>
+
+<a href="https://t.me/starkdmi">
+  <img align="left" alt="Telegram" src="https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/starkdmi">
+  <img align="left" alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/starkdmi">
+  <img align="left" alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:starkov100@gmail.com">
+  <img align="left" alt="Gmail" src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://spoti.fi/32TSEGe">
+  <img align="left" alt="Spotify" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
+
+
+<a href="https://api.binance.com/api/v3/ticker/price?symbol=BTCUSDT">
+  <img align="left" alt="Bitcoin" src="https://img.shields.io/badge/dynamic/json?color=blue&style=for-the-badge&label=%E2%82%BF%20$&query=price&url=https%3A%2F%2Fapi.binance.com%2Fapi%2Fv3%2Fticker%2Fprice%3Fsymbol%3DBTCUSDT" />
+</a>
+
 
 
 
@@ -61,7 +89,9 @@ int main() {
 <!-- Random Fact -->
 <!-- https://uselessfacts.jsph.pl/random.txt -->
 
-
+<!-- Social badges -->
+<!-- https://shields.io -->
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 <!--<a href="https://github.com/starkdmi/Multi-Messenger-Bot-2">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=starkdmi&repo=Multi-Messenger-Bot-2&show_owner=false" />
