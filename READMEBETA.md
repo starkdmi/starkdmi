@@ -102,7 +102,7 @@ int main() {
 
 
 
-<a href="https://api.binance.com/api/v3/ticker/price?symbol=BTCUSDT">
+<a href="https://www.binance.com/en/register?ref=37494855">
   <img align="left" alt="Bitcoin" src="https://img.shields.io/badge/dynamic/json?color=ff9900&style=for-the-badge&label=%E2%82%BF&query=price&suffix=%20$&url=https%3A%2F%2Fapi.binance.com%2Fapi%2Fv3%2Fticker%2Fprice%3Fsymbol%3DBTCUSDT" />
 </a>
  
