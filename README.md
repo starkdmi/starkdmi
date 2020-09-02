@@ -1,11 +1,11 @@
-```C
+<!--```C
 #include <stdio.h>
 
 int main() {
    printf("Hello, World! 🌎");
    return 0;
 }
-```
+```-->
 
 <!--&theme=onedark "-->
 <a href="https://github.com/starkdmi/README.md2">
@@ -45,3 +45,19 @@ int main() {
 <!--<a href="https://github.com/starkdmi">
   <img align="left" alt="Counter" height="28" src="https://komarev.com/ghpvc/?username=starkdmi&style=flat-square&label=😎" />
 </a>-->
+
+</br>
+</br>
+
+<details>
+   <summary>:zap: Bonus</summary>
+
+```C
+#include <stdio.h>
+
+int main() {
+   printf("Hello, World! 🌎");
+   return 0;
+}
+```
+</details>
