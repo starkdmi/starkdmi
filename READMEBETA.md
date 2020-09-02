@@ -3,15 +3,6 @@
 <!-- ### Hi there 👋 -->
 <!-- ### Hello, World! 🌎 -->
 
-```C
-#include <stdio.h>
-
-int main() {
-   printf("Hello, World! 🌎");
-   return 0;
-}
-```
-
 <!--&theme=onedark "-->
 <a href="https://github.com/starkdmi/README.md2">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starkdmi&layout=compact&hide=Visual%20Basic,Logos,PHP" />
@@ -130,7 +121,22 @@ int main() {
   <img align="left" alt="Counter" height="28" src="https://komarev.com/ghpvc/?username=starkdmi&style=flat-square&label=😎" />
 </a>-->
  
- 
+
+</br>
+</br>
+
+<details>
+   <summary>:zap: Bonus</summary>
+
+```C
+#include <stdio.h>
+
+int main() {
+   printf("Hello, World! 🌎");
+   return 0;
+}
+```
+</details>
  
  
  
